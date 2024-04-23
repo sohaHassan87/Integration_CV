@@ -81,26 +81,19 @@ Objectif : Réaliser la séquence de 7 exercices ci-dessous
 Difficulté : Faible (~60 minutes)
 ---------------------------------------------------
 
-**Exercice 1 :**  
-Modifier la photo de votre CV (Choisir la photo de votre choix)  
+**Exercice 1 :** Modifier la photo de votre CV (Choisir la photo de votre choix)  
   
-**Exercice 2 :**  
-Modifier vos compétences Javascript et mettre un niveau à 50% de compétences.  
+**Exercice 2 :** Modifier vos compétences Javascript et mettre un niveau à 50% de compétences.  
   
-**Exercice 3 :**  
-Ajouter 2 compétences supplémentaire :  
+**Exercice 3 :** Ajouter 2 compétences supplémentaire :  
  - Ajax qui sera de 50%  
  - PHP qui sera de 80%  
   
-**Exercice 4 :** 
-Ajouter une "Work Experience"  
+**Exercice 4 :** Ajouter une "Work Experience"  
   
-**Exercice 5 :** 
-Lorsque je click sur le bouton "Download CV", faites en sorte qu'un fichier pdf se télécharge (Le fichier n'a pas d'importance)  
+**Exercice 5 :** Lorsque je click sur le bouton "Download CV", faites en sorte qu'un fichier pdf se télécharge (Le fichier n'a pas d'importance)  
   
-**Exercice 6 :** 
-Modifier le pied de page "Contact" afin de lui mettre un fond de la même couleur que celui de l'entête (couleur bleu avec des carré léger)  
+**Exercice 6 :** Modifier le pied de page "Contact" afin de lui mettre un fond de la même couleur que celui de l'entête (couleur bleu avec des carré léger)  
   
-**Exercice 7 :**
-Retirer les angles (arrondis) sur le pied de page bleu  
+**Exercice 7 :** Retirer les angles (arrondis) sur le pied de page bleu  
   
