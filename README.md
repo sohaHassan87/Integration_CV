@@ -21,7 +21,7 @@ Si besoin, une vidéo pour vous aider à créer votre propre compte GitHUB : [Cr
 A noter que **si vous possédez déjà un compte GitHUB, vous pouvez le conserver pour réaliser cet atelier**. Pas besion d'en créer un nouveau.  
 Remarque importante : **Lors de votre inscription, utilisez une adresse mail valide. GitHUB n'accepte pas les adresses mails temporaires**  
 
-2° - Faites un Fork du Repository suivant : [https://github.com/OpenRSI/NFA040_Seance1.git](https://github.com/OpenRSI/NFA040_Seance1.git)  
+2° - Faites un Fork de ce Repository actuel : https://github.com/bstocker/Integration_CV.git  
 Voici une vidéo d'accompagnement pour vous aider dans les "Forks" : [Forker ce projet](https://youtu.be/p33-7XQ29zQ)    
   
 **Travail demandé :** Créé votre compte GitHUB, faites le fork de ce projet et **copier l'URL de votre Repository GitHUB dans la discussion public**.
@@ -75,17 +75,32 @@ Vous avez vu dans cette séquence comment créer des secrets GiHUB afin de mettr
 L'utilité des scripts d'actions (C'est à dire des scripts exécutés lors des Commits) est très importante mais sortes malheureusement du cadre de cet atelier faute de temps. Toutefois, je vous invites à découvrir cet outil via les différentes sources du Web (Google, ChatGPT, etc..).  
 
 ---------------------------------------------------
-Séquence 4 : Customisez votre page d'accueil
+Séquence 4 : Exercices
 ---------------------------------------------------
-Objectif : Créer sa propre page HTML et la mettre en ligne  
-Difficulté : Faible (~10 minutes)
+Objectif : Réaliser la séquence de 7 exercices ci-dessous  
+Difficulté : Faible (~60 minutes)
 ---------------------------------------------------
-Votre solution est à présent opérationnelle. 
-Vous allez à présent modifier votre fichier index.html dans votre Repository afin de customiser votre page d'accueil.
 
-**Travail demandé :** Depuis GitHUB, modifiez votre fichier index.html et remplacer le code de la ligne 8 par celui-ci :  
-```<h1>Ceci est mon Site Internet NFA040 </h1>```  
-Enregistrez vos modifications via un "Commit" (le gros boutton vert) et observez le résultat en ligne.  
-
-Notions acquises de cette séquence :  
-Vous avez apris à modifier votre code depuis GitHUB et mis en ligne votre travail automatiquement.  
+**Exercice 1 :**  
+Modifier la photo de votre CV (Choisir la photo de votre choix)  
+  
+**Exercice 2 :**  
+Modifier vos compétences Javascript et mettre un niveau à 50% de compétences.  
+  
+**Exercice 3 :**  
+Ajouter 2 compétences supplémentaire :  
+ - Ajax qui sera de 50%  
+ - PHP qui sera de 80%  
+  
+**Exercice 4 :** 
+Ajouter une "Work Experience"  
+  
+**Exercice 5 :** 
+Lorsque je click sur le bouton "Download CV", faites en sorte qu'un fichier pdf se télécharge (Le fichier n'a pas d'importance)  
+  
+**Exercice 6 :** 
+Modifier le pied de page "Contact" afin de lui mettre un fond de la même couleur que celui de l'entête (couleur bleu avec des carré léger)  
+  
+**Exercice 7 :**
+Retirer les angles (arrondis) sur le pied de page bleu  
+  
