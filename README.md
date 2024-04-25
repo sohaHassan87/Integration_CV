@@ -77,8 +77,8 @@ L'utilité des scripts d'actions (C'est à dire des scripts exécutés lors des 
 ---------------------------------------------------
 Séquence 4 : Exercices
 ---------------------------------------------------
-Objectif : Réaliser la séquence de 7 exercices ci-dessous  
-Difficulté : Faible (~60 minutes)
+Objectif : Réaliser la séquence de 9 exercices ci-dessous  
+Difficulté : Moyen (~180 minutes)
 ---------------------------------------------------
 
 **Exercice 1 :** Modifier la photo de votre CV (Choisir la photo de votre choix)  
@@ -97,3 +97,6 @@ Difficulté : Faible (~60 minutes)
   
 **Exercice 7 :** Retirer les angles (arrondis) sur le pied de page bleu  
   
+**Exercice 8 :** Lorsque votre souris passe sur la photo, la photo devient ronde (changement des bords de la photo)   
+
+**Exercice 9 :** Changer la police caratère ce votre CV et utiliser la police suivante : https://fonts.google.com/share?selection.family=Jacquard+24    
